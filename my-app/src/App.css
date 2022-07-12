@@ -1,0 +1,16 @@
+.App{
+  margin: 0 auto;
+  text-align: center;
+}
+.header{
+  padding:50px;
+  background-color: aquamarine;
+}
+.content{
+  padding: 200px;
+  background-color: azure;
+}
+.footer{
+  padding: 90px;
+  background-color: bisque;
+}
